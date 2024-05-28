@@ -1,0 +1,21 @@
+.container{
+    width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 16px;
+  width: 25vw;
+  margin: 0 auto;
+}
+
+#add{
+width: 60px;
+height: 30px;
+border-radius: 8px;
+background-color: forestgreen;
+}
+#task{
+    width: 160px;
+    height: 24px;
+    border-radius: 8px; 
+}
